@@ -414,12 +414,13 @@ button:hover {
 .places-row {
   margin-top: 30px;
   width: 200px;
-  height: 35vh;
   position: relative;
   color: white;
   align-content: end;
   text-align: left;
   padding-left: 15px;
+  aspect-ratio: 2/2.5;
+
 }
 
 .places-row h3 {
